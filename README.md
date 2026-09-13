@@ -1,6 +1,3 @@
-# netflix-content-analysis-powerbi
-Interactive Netflix Content Analysis Dashboard built using Microsoft Power BI to analyze content type, age groups, genres, release trends, countries, and cities.
-
 
 ## Dashboard Preview
 
@@ -156,25 +153,4 @@ VIT Vellore
 
 Interested in ECE, VLSI, Embedded Systems, and Data Analytics.
 
-## Project Outcome
 
-This project provided hands-on experience in building an interactive business intelligence dashboard using Microsoft Power BI.
-
-It helped strengthen skills in:
-
-- Data visualization
-- Dashboard design
-- Data analysis
-- KPI development
-- Interactive filtering
-- Trend analysis
-- Business insight generation
-
-## Author
-
-**Vaishnavi G**
-
-B.Tech ECE | Biomedical Engineering  
-VIT Vellore
-
-Interested in ECE, VLSI, Embedded Systems, and Data Analytics.
